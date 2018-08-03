@@ -1,5 +1,5 @@
 {
-    "name": "iserter/laravel-sms",
+    "name": "teknasyon/laravel-sms",
     "description": "A fork of simplesoftwareio/simple-sms with Verimor driver.",
     "keywords": ["sms", "laravel", "simple", "verimor", "twilio", "callfire", "eztexting", "mozeo", "labsmobile", "nexmo", "text messages", "send", "receive"],
     "homepage": "https://github.com/iSerter/LaravelSMS",
